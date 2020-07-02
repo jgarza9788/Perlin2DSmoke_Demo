@@ -31,6 +31,9 @@ Enjoy! :)
     - [Perlin2dSmoke_Base.shadergraph](#perlin2dsmoke_baseshadergraph)
     - [Perlin2dSmoke_MouseRect.shadergraph](#perlin2dsmoke_mouserectshadergraph)
     - [RT2T.shadergraph](#rt2tshadergraph)
+- [FAQ](#faq)
+    - [Effect is Stretched ?](#effect-is-stretched-)
+    - [testing and notes](#testing-and-notes)
 
 <!--TOC-->
 
@@ -141,3 +144,11 @@ a new version of the Perlin2dSmoke_Base.shadergraph that has the ability to reac
 this takes the outputTexture from Perlin2dSmoke.cs and applies it to a UI Image or other game object.
 
 
+## FAQ
+
+### Effect is Stretched ?
+you can solve this my resizing the RenderTextures to be the same size of the Screen.
+
+### testing and notes
+This works 100% in the editor,  
+however had issues with the WebGL platform.
