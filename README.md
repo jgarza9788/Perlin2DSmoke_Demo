@@ -64,10 +64,11 @@ with the ability to distort the smoke if needed.
 
 ## Terms of Use
 
-You are free to add this asset to any game you’d like
-However:  
+Required:
+please follow [Unity's EULA](https://unity3d.com/legal/as_terms) 
+
+Suggestion/Optional:
 please put my name in the credits, or in the special thanks section. :)  
-please do not re-distribute.  
 
 ## Overview/Setup 
 
