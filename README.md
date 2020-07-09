@@ -88,13 +88,13 @@ here are two images to show
 
 ![Imgur](https://i.imgur.com/voIGwfBm.png) 
 
-![Imgur](https://i.imgur.com/RpIwh9J.gif)
+[Imgur link](https://i.imgur.com/RpIwh9J.gif)
 
-![Imgur](https://i.imgur.com/NeDm52W.gif)
+[Imgur link](https://i.imgur.com/NeDm52W.gif)
 
-![Imgur](https://i.imgur.com/5Xkk1Mz.gif)
+[Imgur link](https://i.imgur.com/5Xkk1Mz.gif)
 
-![Imgur](https://i.imgur.com/9KQKMv3.gif)
+[Imgur link](https://i.imgur.com/9KQKMv3.gif)
 
 ## Scripts 
 
